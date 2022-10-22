@@ -6,7 +6,7 @@ Practica
     
         https://github.com/Breakingsoft/LaunchXFrontEndDisenoyEstructura/blob/06e659a05a131175100cb29bfe5a02deee64bc3e/Requerimientos%20Teleplus%20Digital.doc
         
-        ![Image text](https://github.com/Breakingsoft/LaunchXFrontEndDisenoyEstructura/blob/main/BPMN.png)
+        ![Image text](/LaunchXFrontEndDisenoyEstructura/blob/main/BPMN.png)
     
     Crea tu buyer persona:
     
