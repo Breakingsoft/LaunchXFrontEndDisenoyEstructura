@@ -23,6 +23,6 @@ Crea tu primer Wireframe UX:
 <img src="https://user-images.githubusercontent.com/2941966/197317628-6b359987-47e7-434e-8822-9c7487d9feb2.png" width="15%"></img> 
 <img src="https://user-images.githubusercontent.com/2941966/197317630-162764c9-0bef-43d6-b533-4c995bad0378.png" width="15%"></img>
 
-Creatu primer Wireframe UI :
+Crea tu primer Wireframe UI :
  
 <img src="https://user-images.githubusercontent.com/2941966/197317627-79e5b631-a23a-4237-9d17-798b6c9f4be8.png" width="15%"></img> 
